@@ -1,5 +1,5 @@
 # Indecision-App
-Indecision-App with react,webpack,yarn &amp; scss
+Indecision-App with react, webpack, yarn &amp; scss
 
 Follow the steps to run this Indecision App
 
