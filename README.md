@@ -9,4 +9,4 @@ Follow the steps to run this Indecision App
 
 3)npm start
 
-Enjoy
+Enjoy.
